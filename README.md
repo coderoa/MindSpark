@@ -2,6 +2,8 @@
 
 ClassVibe AI is a browser-based classroom analytics and engagement prototype built with React and Vite. It simulates teacher and student dashboards, webcam-based engagement tracking, and a post-lesson quiz flow.
 
+for EdTechHackathon
+
 ## APIs and libraries used
 
 ### Browser APIs
